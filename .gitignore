@@ -2,3 +2,4 @@ venv/
 generator/
 private.py
 __pycache__/
+.env
