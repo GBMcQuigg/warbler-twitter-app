@@ -1,2 +1,4 @@
 venv/
 generator/
+private.py
+__pycache__/
